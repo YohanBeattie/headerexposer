@@ -33,7 +33,7 @@ setuptools.setup(
     " practices",
     python_requires=">=3.7",
     install_requires=[
-        "ansiwrap",
+        "texrwrap",
         "colorama",
         "jsonschema",
         "requests",
