@@ -13,7 +13,7 @@ It is designed to be cross-platforms, and was tested in various Linux/Windows te
 
 These requirements will automatically be installed upon headerexposer's installation with pip.
 
-* ansiwrap: The standard textwrap module does not support ANSI codes, hence the use of ansiwrap as a replacement.
+* textwrap: The standard textwrap module now suppors ANSI codes
 * colorama: This is only used for color compatibility on Microsoft platforms.
 * jsonschema: This is used for json validation.
 * requests: Used in the module's CLI for performing HTTP requests.
